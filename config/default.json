@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://ram_mi:Ram12345@cluster0.zbwtx.mongodb.net/contactKeeper?retryWrites=true&w=majority",
+
+    "jwtSecret":"secret"
+}
